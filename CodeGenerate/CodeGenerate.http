@@ -1,0 +1,6 @@
+@CodeGenerate_HostAddress = http://localhost:5014
+
+GET {{CodeGenerate_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
